@@ -24,7 +24,3 @@ Below is the information of the files within the subfolders:
 			Input:results.csv
 			Output:predicitions.csv
 
-
-Happy grading!
-
--Team 5 
